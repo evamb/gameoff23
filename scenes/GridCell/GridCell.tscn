@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://scenes/GridCell/GridCell.png" type="Texture" id=1]
+
+[node name="GridCell" type="TextureRect"]
+texture = ExtResource( 1 )
+stretch_mode = 3
